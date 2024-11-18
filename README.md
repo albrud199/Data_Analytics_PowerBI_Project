@@ -29,5 +29,6 @@ What I implement in this beginner project ->
 
 ## Dashboard Project
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/user-attachments/assets/c39b7772-8aeb-434f-b46e-95b8c215b944)
+
 
