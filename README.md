@@ -37,8 +37,7 @@ What I implement in this beginner project ->
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Power-BI-Beginner-Project
-/count.svg" />
+  <img src="https://profile-counter.glitch.me/albrud199/count.svg" />
 </p>
 
 ### Thank you!!!
