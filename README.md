@@ -1,5 +1,5 @@
 
-# Power BI Beginner Project
+# Power BI Mini Project
 
 What I implement in this beginner project ->
 
@@ -36,8 +36,5 @@ What I implement in this beginner project ->
   <h3><b>📍Visitor Count</b></h3>
 </div>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/albrud199/count.svg" />
-</p>
 
 ### Thank you!!!
