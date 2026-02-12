@@ -1,4 +1,9 @@
 
+<!-- 
+Completed a hands-on Power BI project covering the full analytics lifecycle—data cleaning in Power Query, DAX measures, and interactive dashboard design with slicers and charts. Showcases proficiency in essential Power BI tools for business reporting.
+
+-->
+
 # Power BI Mini Project
 
 What I implement in this beginner project ->
